@@ -1,0 +1,6 @@
+To use the scan function when power by usb
+
+
+Need unsolder contacts from the board +5V and GND pins usb socket and solder to + and - pins battery container
+
+You loose access to flash memmory but you can scan without batteries 
